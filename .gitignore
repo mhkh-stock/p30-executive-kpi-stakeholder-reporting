@@ -1,0 +1,5 @@
+# The NoorMart database rebuilds from the scripts — never committed.
+*.db
+# LibreOffice recalc scratch (created by src/checks.py, deleted after).
+outputs/.recalc/
+__pycache__/

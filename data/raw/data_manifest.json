@@ -1,0 +1,64 @@
+{
+  "seed": 30,
+  "scenario": "NoorMart \u2014 fictional retailer, Jan\u2013Dec 2026 (SAMPLE)",
+  "plan": {
+    "2026-01": {
+      "planned_revenue_pkr": 950000,
+      "demand_multiplier": 0.97
+    },
+    "2026-02": {
+      "planned_revenue_pkr": 880000,
+      "demand_multiplier": 1.05
+    },
+    "2026-03": {
+      "planned_revenue_pkr": 1250000,
+      "demand_multiplier": 1.09
+    },
+    "2026-04": {
+      "planned_revenue_pkr": 1050000,
+      "demand_multiplier": 0.94
+    },
+    "2026-05": {
+      "planned_revenue_pkr": 1300000,
+      "demand_multiplier": 1.01
+    },
+    "2026-06": {
+      "planned_revenue_pkr": 980000,
+      "demand_multiplier": 0.92
+    },
+    "2026-07": {
+      "planned_revenue_pkr": 1020000,
+      "demand_multiplier": 1.0
+    },
+    "2026-08": {
+      "planned_revenue_pkr": 1060000,
+      "demand_multiplier": 0.98
+    },
+    "2026-09": {
+      "planned_revenue_pkr": 990000,
+      "demand_multiplier": 0.95
+    },
+    "2026-10": {
+      "planned_revenue_pkr": 1120000,
+      "demand_multiplier": 1.06
+    },
+    "2026-11": {
+      "planned_revenue_pkr": 1280000,
+      "demand_multiplier": 1.08
+    },
+    "2026-12": {
+      "planned_revenue_pkr": 1220000,
+      "demand_multiplier": 1.01
+    }
+  },
+  "target_stretch": 1.03,
+  "totals": {
+    "sale_lines": 2230,
+    "orders": 1321,
+    "customers_seen": 392,
+    "gross_sales_pkr": 13983480,
+    "returns_pkr": 496937,
+    "net_revenue_pkr": 13486543,
+    "returned_lines": 84
+  }
+}

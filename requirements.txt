@@ -1,0 +1,7 @@
+# Pinned to the exact versions that built this delivery (verified Nov 2026).
+openpyxl==3.1.2
+reportlab==5.0.1
+matplotlib==3.6.3
+# Python 3.12. Data loading and KPIs are SQL + stdlib; openpyxl is used
+# only by the workbook build and its checks, reportlab + matplotlib
+# only by the report PDF and the preview charts.
